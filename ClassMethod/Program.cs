@@ -6,6 +6,7 @@ namespace ClassMethod
     {
         static void Main(string[] args)
         {
+
             // TASK 1
             //Student student = new Student("Adil", "Nasirli", "681s1", 94);
             //student.GetInfo();
